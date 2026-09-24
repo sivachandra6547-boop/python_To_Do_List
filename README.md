@@ -7,4 +7,4 @@ A simple command-line to-do list app written in Python.
 - Tasks are saved to a file, so they persist between runs
 
 ## How to run
-python todo.py
+python Todo.py
